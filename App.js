@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
-import {Snack1} from './electric_bill_container/Snacks';
+import { Schedule1 } from './scheduling_container/schedule';
 
 function App() {
   return (
     <div className="App">
-      <Snack1 />
+      <Schedule1/>
       
 
     </div>

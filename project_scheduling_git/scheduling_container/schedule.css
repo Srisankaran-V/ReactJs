@@ -1,0 +1,12 @@
+button{
+    margin-top : 300px;
+    margin-right: 10px;
+    background-color : burlywood;
+    padding: 10px 20px;
+    border : none;
+    
+}
+#login_page_div{
+    align-items: center;
+    margin-top: 200px;
+}
